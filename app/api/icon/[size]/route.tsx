@@ -24,7 +24,6 @@ export async function GET(
           justifyContent: 'center',
         }}
       >
-        {/* Phosphor-style concentric circles — matches the ◎ motif in the login screen */}
         <svg
           width={innerSize}
           height={innerSize}
